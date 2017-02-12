@@ -1,6 +1,9 @@
 package com.example.johncarter.newsfeedapp;
 
 import java.util.ArrayList;
+/**
+ * Created by john carter on 2/12/2017.
+ */
 
 public class News {
     private String status;

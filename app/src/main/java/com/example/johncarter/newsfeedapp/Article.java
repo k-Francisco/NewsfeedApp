@@ -1,5 +1,8 @@
 package com.example.johncarter.newsfeedapp;
 
+/**
+ * Created by john carter on 2/12/2017.
+ */
 
 public class Article {
     private String author;
