@@ -1,8 +1,5 @@
 package com.example.johncarter.newsfeedapp;
 
-/**
- * Created by Acer on 06/02/2017.
- */
 
 public class Article {
     private String author;

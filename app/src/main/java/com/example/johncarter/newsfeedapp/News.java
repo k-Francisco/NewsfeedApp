@@ -2,10 +2,6 @@ package com.example.johncarter.newsfeedapp;
 
 import java.util.ArrayList;
 
-/**
- * Created by Acer on 06/02/2017.
- */
-
 public class News {
     private String status;
     private String source;
