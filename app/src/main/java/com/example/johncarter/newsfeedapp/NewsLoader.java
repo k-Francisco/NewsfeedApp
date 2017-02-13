@@ -5,8 +5,9 @@ import android.content.Context;
 
 import java.util.ArrayList;
 
+
 /**
- * Created by Acer on 06/02/2017.
+ * Created by john carter on 2/12/2017.
  */
 
 public class NewsLoader extends AsyncTaskLoader<ArrayList<Article>> {
